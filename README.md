@@ -24,7 +24,7 @@ I’m currently pursuing a Master’s in Data Science at Columbia University, wh
 * Education: Master of Science in Data Science
 * Experience: 3 years in Data Science and Engineering
 * Skills: Python, R, SQL, Spark, ML, Analytics, ETL and Data Visualization
-* Interests: Big Data, Machine Learning
+* Interests: Big Data, Machine Learning, Deep Learning, NLP
 
 ## Let’s Connect 📫
 
